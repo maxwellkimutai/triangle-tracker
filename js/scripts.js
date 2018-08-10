@@ -32,3 +32,7 @@ function triangleTracker() {
               }
             }
         }
+
+        if ((sides[0] + sides[1]) <= sides[2] || (sides[1] + sides[2]) <= sides[0] || (sides[0] + sides[2]) <= sides[1]){
+      alert("The three sides cannot make a triangle!!!");
+    }
