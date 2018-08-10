@@ -43,5 +43,3 @@ function triangleTracker() {
       alert("The three sides make a scalene triangle!!!");
         }
 }
-
-triangleTracker();
