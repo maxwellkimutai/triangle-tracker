@@ -45,6 +45,7 @@ The program checks if sides entered can make a scalene triangle.
 * cd triangle-tracker
 * atom .
 * edit
+* run in browser using file path on your computer
 ## Known Bugs
 None
 ## Technologies Used
