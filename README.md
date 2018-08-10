@@ -53,6 +53,8 @@ None
 * CSS
 * JavaScript
 * git
+## Link To Gh-pages
+https://maxwellkimutai.github.io/triangle-tracker/
 ## Support and contact details
 Contact Maxwell Kimutai on +254713510682
 ### License
