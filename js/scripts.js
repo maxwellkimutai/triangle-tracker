@@ -37,4 +37,6 @@ function triangleTracker() {
       alert("The three sides cannot make a triangle!!!");
         } else if (sides[0] === sides[1] && sides[1] === sides[2]) {
       alert("The three sides make an equilateral triangle!!!");
+        } else if (sides[0] === sides[1] || sides[0] === sides[2] || sides[2] ===	sides[1]) {
+      alert("The three sides make an isosceles triangle!!!");
         }
